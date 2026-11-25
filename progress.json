@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:55:31.281Z",
+  "generated_at": "2026-11-25T10:55:36.734Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -23,7 +23,7 @@
       "url": "https://www.deep-ml.com/problems/371",
       "path": "problems/0371-calculate-number-of-parameters-in-neural-network",
       "first_solved_at": "2026-11-25T10:55:30.541Z",
-      "last_pushed_at": "2026-11-25T10:55:30.541Z",
+      "last_pushed_at": "2026-11-25T10:55:35.998Z",
       "language": "python",
       "lines": 39
     }
